@@ -1,8 +1,16 @@
 ---
-title: "My first website"
+title: "Sissi Sun"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
+# About Sissi Sun
+<img src="images/IMG_0843.JPG" style="width:75%">
+
+As a current MPH student with a BS in Clinical/Medical Technology and professional experience as a Medical Consultant and Research Assistant, I want to be a data analyst in healthcare industry. 
+
+* [About me](about.html)
+
+* [Experience](experience.html)
