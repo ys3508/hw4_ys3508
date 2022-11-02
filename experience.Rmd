@@ -1,0 +1,22 @@
+---
+title: "Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Links for Experience
+
+* [linkedin](https://www.linkedin.com/in/yequesun/)
+
+
+## Experience {.tabset}
+
+### Academic
+
+Working with Julie Herbstman to establish a model/score system to further evaluate the level of de novo mutation and vulnerability for neurodevelopmental disorders (NDD) associated genes
+
+### Professional
+
+Working as a medical advisor and consultant in Shanghai INNSCI Information & Technology Co from 2020 to 2021
